@@ -1,0 +1,12 @@
+GERAR IMAGES DINAMICAMENTE 
+1: npm init -y
+
+2: npm install express jimp ejs
+
+3:criar função async pra gerar imagem dinamicamente genImage
+
+4: criar servidor, o middleware pra setar o ejs
+
+5: criar a route
+
+6: criar o arquivo views/index.ejs retornando a lista de objetos

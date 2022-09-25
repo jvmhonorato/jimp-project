@@ -1,0 +1,10 @@
+<ul>
+<% empresas.map((empresa, indice) => {%>
+    <li>
+        <%= empresa.nome%>
+        <img src="/image/<%= indice %>"/>
+    </li>
+    <li><%= empresa.telefone%></li>
+
+    <% }) %>
+</ul>
