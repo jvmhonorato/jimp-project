@@ -10,3 +10,5 @@ GERAR IMAGES DINAMICAMENTE
 5: criar a route
 
 6: criar o arquivo views/index.ejs retornando a lista de objetos
+
+7: crair arquivo teste.js pra fazer updade com resize grayscale, blur, cover  e etc da foto
